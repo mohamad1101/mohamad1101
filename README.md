@@ -2,7 +2,7 @@
 - 👀 I’m interested in android development and deep learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me in telegram ===>>@mohamad1101
 
 <!---
 mohamad1101/mohamad1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
